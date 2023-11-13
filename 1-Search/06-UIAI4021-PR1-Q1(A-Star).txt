@@ -1,5 +1,5 @@
-Dijkstra
-Exe time: 0.04022407531738281s
+A*
+Exe time: 0.08637881278991699s
 .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
 Flight #1 (Mahan Air):
 From: Imam Khomeini International Airport - Tehran, Iran
