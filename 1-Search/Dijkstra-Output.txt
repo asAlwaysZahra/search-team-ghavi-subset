@@ -1,0 +1,41 @@
+Dijkstra
+Exe time: 0.04378175735473633s
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Flight #1 (Mahan Air):
+From: Imam Khomeini International Airport - Tehran, Iran
+To: Düsseldorf Airport - Duesseldorf, Germany
+Duration: 3921.8990130989446km
+Time: 5.450957619833174km
+Price: 457.8679576636519km
+----------------------------
+Flight #2 (Lufthansa):
+From: Düsseldorf Airport - Duesseldorf, Germany
+To: Newcastle Airport - Newcastle, United Kingdom
+Duration: 700.4016904718744km
+Time: 0.9686450823247468km
+Price: 162.00341803579576km
+----------------------------
+Flight #3 (Jetstar Airways):
+From: Newcastle Airport - Newcastle, United Kingdom
+To: Melbourne International Airport - Melbourne, Australia
+Duration: 834.6449978671836km
+Time: 1.4205257067621924km
+Price: 117.1949201700933km
+----------------------------
+Flight #4 (American Airlines):
+From: Melbourne International Airport - Melbourne, Australia
+To: Charlotte Douglas International Airport - Charlotte, United States
+Duration: 791.2302148525258km
+Time: 1.6713531473383905km
+Price: 144.40649101693947km
+----------------------------
+Flight #5 (American Airlines):
+From: Charlotte Douglas International Airport - Charlotte, United States
+To: Raleigh Durham International Airport - Raleigh-durham, United States
+Duration: 208.5119182907748km
+Time: 0.898608088101398km
+Price: 97.2285064411616km
+----------------------------
+Total Price: $978.7012933276421
+Total Duration: 6456.687834581304km
+Total Time: 10.410089644359902h
